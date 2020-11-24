@@ -1,2 +1,2 @@
 # Trade-strategy
-quant fin for stock trading
+Stock trading strategies -- quantitative finance
